@@ -74,7 +74,7 @@ with tf.Session() as sess:
 
             avg_cost+=c/total_batch
 
-        correct_prediction = tf.equal(tf.arg_max(pred, 1), tf.arg_max(y, 1))
+        correct_prediction = tf.equal(tf.argmax(pred, 1), tf.argmax(y, 1))
         accuracy = tf.reduce_mean(tf.cast(correct_prediction, "float"))
 
         if epoch%display_step==0:
@@ -82,7 +82,7 @@ with tf.Session() as sess:
 
     print("train fineshed.........................")
 
-    correct_prediction=tf.equal(tf.arg_max(pred,1),tf.arg_max(y,1))
+    correct_prediction=tf.equal(tf.argmax(pred,1),tf.arg_max(y,1))
     accuracy=tf.reduce_mean(tf.cast(correct_prediction,"float"))
     print("last accuracy:",accuracy.eval({x:mnist.test.images,y:mnist.test.labels}))
 
