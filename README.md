@@ -16,4 +16,9 @@
 > 博客及结果：http://blog.csdn.net/yen_csdn/article/details/79268446
 
 
+#### {CNN卷积神经网络使用TensorFlow框架实现MNIST手写数字识别}算法：
+> 代码及数据：https://github.com/YEN-GitHub/DeepLearning_BasicByTensorFlow/tree/master/CNN/CNN_tensorflow_mnist.py
+ 
+> 博客及结果：http://blog.csdn.net/yen_csdn/article/details/79293238
+
 
