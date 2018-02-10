@@ -12,7 +12,7 @@
              
 ## 算法列表：
 
-#### {传统神经网络算法使用TensorFlow实现MNIST手写数字识别}算法：
+#### {NN传统神经网络算法使用TensorFlow实现MNIST手写数字识别}算法：
 > 代码及数据：https://github.com/YEN-GitHub/DeepLearning_BasicByTensorFlow/tree/master/ANN/NN_tensorflow_mnist.py
  
 > 博客及结果：http://blog.csdn.net/yen_csdn/article/details/79268446
@@ -23,4 +23,9 @@
  
 > 博客及结果：http://blog.csdn.net/yen_csdn/article/details/79293238
 
+
+#### {基于VGG进行人脸表情识别}算法：
+> 代码及数据：https://github.com/YEN-GitHub/DeepLearning_BasicByTensorFlow/tree/master/CNN_targetClassification/emotion_baseOnVGG.py
+ 
+> 博客及结果：http://blog.csdn.net/yen_csdn/article/details/79303022
 

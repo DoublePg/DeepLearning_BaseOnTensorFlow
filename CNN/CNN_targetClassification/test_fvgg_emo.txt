@@ -1,0 +1,10 @@
+webemo_ts/D004145.jpg 3
+webemo_ts/C002461.jpg 2
+webemo_ts/E00000127.jpg 4
+webemo_ts/G009810.jpg 6
+webemo_ts/F008952.jpg 5
+webemo_ts/E00000988.jpg 4
+webemo_ts/B00000147.jpg 1
+webemo_ts/F008577.jpg 5
+webemo_ts/G00000196.jpg 6
+webemo_ts/E00001004.jpg 4
